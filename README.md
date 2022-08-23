@@ -3,6 +3,6 @@
 ## Introduction
 
 <p></p>
-The goal of this project is to use reflection seismic data and well logging data to estimate underground elastic parameters that are used for finding potential oil and gas reservoirs. By wrangling and analyzing well logging data in R, the missing well data can be estimated using Bayesian framework. And the Bayesian prior information can be obtained by using interpolation method. The Bayesian model is also derived. Finally, the user graphic interface for elastic parameters estimation is implemented in Python.
+Prestack depth migration has been routinely applied to identify potential targets for oil and gas exploration. Accurate knowledge of migration velocity is crucial for producing high-fidelity subsurface images. Tomographic migration velocity model building was designed to reconstruct the velocity model for prestack depth migration. The general objective is to estimate the migration velocity model that removes the residual errors of primary reflection events in the depth-migrated common image gathers, and works with prestack depth migration iteratively to achieve the high quality of imaging complex geologic structures.
 
 ## Workflow for velocity model building
