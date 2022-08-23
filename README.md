@@ -35,7 +35,7 @@ produces a high-fidelity subsurface image and provides a velocity model that is 
 </p>
 
 ## References
-<p style="padding-left: 2em; text-indent: -2em;">Xia, F., Ren, Y., and Jin, S., 2006, Residual migration-velocity analysis using common angle image gathers: 76th Annual International Meeting, SEG, Expanded Abstracts, 2455-2459.<p/>
+<p text-indent: -2em;">Xia, F., Ren, Y., and Jin, S., 2006, Residual migration-velocity analysis using common angle image gathers: 76th Annual International Meeting, SEG, Expanded Abstracts, 2455-2459.<p/>
 Xia, F., Ren, Y., and Jin, S., 2008, Tomographic migration-velocity analysis using common angle image gathers: 78th Annual International Meeting, SEG, Expanded Abstracts, 3103-3107.<br/>
 Xia, F., Jin, S., and Pajchel, J., 2013, Angle-domain wave equation tomography using RTM image gathers: 83rd Annual International Meeting, SEG, Expanded Abstracts, 4822-4826.<br/>
 Jin, S., Xu, S., Xia, F., Ottolini, R., and Ren, Y., 2014, Structure tensor constrained tomographic migration velocity analysis. 84th Annual International Meeting, SEG, Expanded Abstracts, 4702-4706.<br/>
