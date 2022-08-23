@@ -42,3 +42,11 @@ Jin, S., Xu, S., Xia, F., Ottolini, R., and Ren, Y., 2014, Structure tensor cons
 Xia, F., Jin, S., and Pajchel, J., 2015, Sensitivity kernel-based tomographic migration velocity analysis using RTM angle image gathers, Geophysics, 80(3), U25-U34.
 Xia, F., 2016 Sensitivity kernel-based tomography using RTM angle image gathers in VTI media: 86th Annual International Meeting, SEG, Expanded Abstracts, 5302-5306.
 Xia, F., 2016, Semblance-based anisotropy parameter estimation using isotropic depth-migrated common image gathers: 86th Annual International Meeting, SEG, Expanded Abstracts, 285-290.
+Xia, F., Ren, Y., and Jin, S., 2013, Seismic imaging systems and methods employing tomographic migration velocity analysis using common angle image gathers, U.S. Patent 8,406,081.
+Xia, F., Ren, Y., and Jin, S., 2014, Sensitivity kernel-based migration velocity analysis in 3D anisotropic media, U.S Patent 8,830,788.
+Jin, S., Xu, S., Xia, F., Ottolini, R., and Ren, Y., 2018, Structure tensor constrained tomographic velocity analysis, U.S Patent 9,869,783.
+Xia, F., 2019, Computer-implemented method and system employing nonlinear direct prestack seismic inversion for Poisson impedance, U.S. Patent Application.
+Chen, Y., Xia, F., 2021, Computing program product and method that interpolates wavelets coefficients and estimates spatial varying wavelets using the covariance interpolation method in the data space over a survey region having multiple well locations, U.S. Patent Application.
+Xia, F., 2021, Estimating interval anisotropy parameter for pre-stack depth migration using a least-squares method, U.S Patent 10,908,309.
+Xia, F., and Jin, S., 2021, Semblance-based anisotropy parameter estimation using isotropic depth-migrated common image gathers, U.S Patent 10,942,287.
+Xia, F., 2022, Method and system that uses an anisotropy parameter to generate high-resolution time-migrated image gathers for reservoir characterization, and interpretation, U.S Patent 11,320,554.
