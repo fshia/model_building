@@ -35,5 +35,10 @@ produces a high-fidelity subsurface image and provides a velocity model that is 
 </p>
 
 ## References
-
-Prestack depth migration has been routinely applied to identify potential targets for oil and gas exploration.
+Xia, F., Ren, Y., and Jin, S., 2006, Residual migration-velocity analysis using common angle image gathers: 76th Annual International Meeting, SEG, Expanded Abstracts, 2455-2459.
+Xia, F., Ren, Y., and Jin, S., 2008, Tomographic migration-velocity analysis using common angle image gathers: 78th Annual International Meeting, SEG, Expanded Abstracts, 3103-3107.
+Xia, F., Jin, S., and Pajchel, J., 2013, Angle-domain wave equation tomography using RTM image gathers: 83rd Annual International Meeting, SEG, Expanded Abstracts, 4822-4826.
+Jin, S., Xu, S., Xia, F., Ottolini, R., and Ren, Y., 2014, Structure tensor constrained tomographic migration velocity analysis. 84th Annual International Meeting, SEG, Expanded Abstracts, 4702-4706.
+Xia, F., Jin, S., and Pajchel, J., 2015, Sensitivity kernel-based tomographic migration velocity analysis using RTM angle image gathers, Geophysics, 80(3), U25-U34.
+Xia, F., 2016 Sensitivity kernel-based tomography using RTM angle image gathers in VTI media: 86th Annual International Meeting, SEG, Expanded Abstracts, 5302-5306.
+Xia, F., 2016, Semblance-based anisotropy parameter estimation using isotropic depth-migrated common image gathers: 86th Annual International Meeting, SEG, Expanded Abstracts, 285-290.
