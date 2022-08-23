@@ -1,1 +1,1 @@
-# Tomographic migration velocity model building using the depth-migrated common image gathers
+# Tomographic migration velocity model building using depth-migrated common image gathers
