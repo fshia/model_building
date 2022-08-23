@@ -29,7 +29,9 @@ Prestack depth migration has been routinely applied to identify potential target
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/110936252/186258661-e97731cd-c4ac-4cad-853c-1475cfa2a8bd.png" alt="Figure 3" width="700"/>
+ <img src="https://user-images.githubusercontent.com/110936252/186258830-270fb316-a182-4d79-b685-8672a80c69ae.png" alt="Figure 3" width="700"/>
 </p>
 
 ## References
+
 Prestack depth migration has been routinely applied to identify potential targets for oil and gas exploration.
