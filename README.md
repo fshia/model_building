@@ -9,9 +9,13 @@ Prestack depth migration has been routinely applied to identify potential target
 <img src="https://user-images.githubusercontent.com/110936252/186238079-a8b7ee63-bfb2-42ed-bba5-529197f72362.png" alt="Figure 1" width="600"/>
 
 ## Ray-based velocity model building
+Prestack depth migration has been routinely applied to identify potential targets for oil and gas exploration.
 
 ## Sensitivity kernel-based velocity model building
+Prestack depth migration has been routinely applied to identify potential targets for oil and gas exploration.
 
 ## Numerical tests
+Prestack depth migration has been routinely applied to identify potential targets for oil and gas exploration.
 
 ## References
+Prestack depth migration has been routinely applied to identify potential targets for oil and gas exploration.
