@@ -7,3 +7,11 @@ Prestack depth migration has been routinely applied to identify potential target
 
 ## Workflow for velocity model building
 <img src="https://user-images.githubusercontent.com/110936252/186238079-a8b7ee63-bfb2-42ed-bba5-529197f72362.png" alt="Figure 1" width="600"/>
+
+## Ray-based velocity model building
+
+## Sensitivity kernel-based velocity model building
+
+## Numerical tests
+
+## References
